@@ -3,6 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Information Page](https://github.com/RyanSoboslay/osticket-Information)
   - [osTicket: Prerequisites and Installation](https://github.com/RyanSoboslay/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/RyanSoboslay/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/RyanSoboslay/ticket-lifecycle)
