@@ -9,7 +9,7 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/RyanSoboslay/ticket-lifecycle)
 - <b>Active Directory</b>
   - [Active Directory: Information Page](https://github.com/RyanSoboslay/information-ad)
-  - [Active Directory: Configuring On-premises Active Directory within Azure VMs](https://github.com/RyanSoboslay/configure-ad)
+  - [Active Directory: Configuring Active Directory Infrastructure](https://github.com/RyanSoboslay/configure-ad)
   - [Active Directory: Deploying Active Directory](https://github.com/RyanSoboslay/deploy-ad)
   - [Active Directory: Creating Users with Powershell](https://github.com/RyanSoboslay/create-users-ad)
   - [Active Directory: Group Policy and Managing Accounts in Active Directory](https://github.com/RyanSoboslay/group-policy-ad)
