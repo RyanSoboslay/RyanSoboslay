@@ -8,7 +8,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/RyanSoboslay/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/RyanSoboslay/ticket-lifecycle)
 - <b>Active Directory</b>
-  - [Active Directory: Information Page](https://github.com/RyanSoboslay/configure-ad)
+  - [Active Directory: Information Page](https://github.com/RyanSoboslay/information-ad)
   - [Active Directory: Configuring On-premises Active Directory within Azure VMs](https://github.com/RyanSoboslay/configure-ad)
 - <b>Microsoft Azure</b>
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/RyanSoboslay/azure-network-protocols)
