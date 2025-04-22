@@ -18,6 +18,6 @@
 
 <h2>Connect with me:</h2>
 
-[<img align="left" alt="Josh | LinkedIn" width="100px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white" />][linkedin]
+[<img align="left" alt="Ryan | LinkedIn" width="100px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/ryansoboslay/
