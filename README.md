@@ -1,3 +1,5 @@
+![github-header-image](https://github.com/user-attachments/assets/54183b87-88f8-4ac5-9614-af04da5d88a4)
+
 <h1>Hey! I'm Ryan, an IT Specialist</a> 💻</h1>
 
 <h2> 📚	Information Technology Projects:</h2>
