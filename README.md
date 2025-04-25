@@ -1,6 +1,6 @@
 <h1>Hey! I'm Ryan, an IT Specialist</a> 💻</h1>
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h2> 📚	Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Information Page](https://github.com/RyanSoboslay/osticket-Information)
