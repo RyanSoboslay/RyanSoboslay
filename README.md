@@ -1,6 +1,4 @@
-![github-header-image](https://github.com/user-attachments/assets/54183b87-88f8-4ac5-9614-af04da5d88a4)
-
-<h1>Hey! I'm Ryan, an IT Specialist</a> 💻</h1>
+![github-header-image (name-ITspec)](https://github.com/user-attachments/assets/19f6d371-0575-4c73-93f6-522c1d50e99c)
 
 <h2> 📚	Information Technology Projects:</h2>
 
